@@ -26,6 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jojojou320M"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jojojou320M" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeylcoding&show_icons=true&locale=en&layout=compact" alt="joeylcoding" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeylcoding&show_icons=true&locale=en" alt="joeylcoding" /></p>
