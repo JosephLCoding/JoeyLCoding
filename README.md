@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sprap6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sprap6969" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/joeylcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joeylcoding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joeylikesgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joeylikesgames" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20487137/joeylcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joeylcoding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDwywsr9_mOKkXd_5Ax4u0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joeylikesgames" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
